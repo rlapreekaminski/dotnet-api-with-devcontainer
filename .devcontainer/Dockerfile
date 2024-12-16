@@ -1,5 +1,5 @@
 # Utilise l'image officielle .NET 9 SDK
-FROM mcr.microsoft.com/dotnet/sdk:9.0
+FROM mcr.microsoft.com/devcontainers/dotnet:dev-9.0   
 
 # Configure le répertoire de travail
 WORKDIR /workspace
