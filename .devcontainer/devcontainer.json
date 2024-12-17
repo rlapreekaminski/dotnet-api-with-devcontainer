@@ -12,10 +12,7 @@
       "settings": {
         "editor.formatOnSave": true
       },
-      "extensions": [
-        "ms-dotnettools.csharp",
-        "ms-dotnettools.csdevkit"
-      ]
+      "extensions": ["ms-dotnettools.csharp", "ms-dotnettools.csdevkit"]
     }
   },
   "forwardPorts": [5002, 7002],
